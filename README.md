@@ -6,6 +6,10 @@ Project made with the help of the instructor [Mayk Brito](https://github.com/may
 
 ## Technologies
 
-- HTML
-- CSS
-- Javascript
+-  HTML
+-  CSS
+-  Javascript
+
+## Deployment
+
+Link to the Page: [Doctor Care](https://guilhermerocha0.github.io/doctor-care/)
